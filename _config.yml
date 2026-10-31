@@ -23,14 +23,14 @@ repository               : "alanrgonzalez/alanrgonzalez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Headshot_AG.png"
+  name             : "Alan Gonzalez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Doctoral Candidate - Environmental Engineering"
+  location         : "College Station, TX"
+  employer         : "Texas A&M University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alan.r.gonzalez@tamu.edu" 
 
   # Academic websites
   academia         : # URL
