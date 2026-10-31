@@ -26,7 +26,10 @@ author:
   avatar           : "Headshot_AG.png"
   name             : "Alan Gonzalez"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral Candidate - Environmental Engineering"
+  #bio              : "Doctoral Candidate - Environmental Engineering"
+  bio: |
+    Doctoral Candidate
+    Environmental Engineering
   location         : "College Station, TX"
   employer         : "Texas A&M University"
   uri              : # URL
