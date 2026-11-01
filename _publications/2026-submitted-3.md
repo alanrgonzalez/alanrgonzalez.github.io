@@ -1,5 +1,5 @@
 ---
-title: "New Particle Formation and Organic-Driven Growth Enhance Cloud Condensation Nuclei and Cloud Droplet Number Concentrations in a Subtropical Forest."
+title: "New Particle Formation and Organic-Driven Growth Enhance Cloud Condensation Nuclei and Cloud Droplet Number Concentrations in a Subtropical Forest"
 collection: submitted
 category: conferences
 permalink: /publication/2026-submitted-3
