@@ -7,6 +7,7 @@ excerpt: 'Emphasizing scientific literacy and actionable science, this study uti
 date: 2022-08-24
 venue: 'Earth''s Future'
 paperurl: 'https://doi.org/10.1029/2021ef002453'
+slidesurl: 'https://www.newswise.com/articles/how-covid-19-could-help-people-relate-to-sea-level-rise'
 citation: 'Gonzalez, A. R., & Lin, T. (2022). &quot;Translated Emission Pathways (TEPs): Long‐Term Simulations of COVID‐19 CO<sub>2</sub> Emissions and Thermosteric Sea Level Rise Projections.&quot; <i>Earth''s Future, 10</i>(8).'
 ---
 
