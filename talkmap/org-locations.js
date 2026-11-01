@@ -10,6 +10,11 @@ var addressPoints = [
     -98.4951405
   ],
   [
+    "Atmospheric Oxidation Capacity and Air Quality Trends in Texas Due to Long-Term Climate and Anthropogenic Emission Scenarios<br />American Chemical Society Southwest Regional Meeting; Waco, TX, United States",
+    31.5545147,
+    -97.1325618
+  ],
+  [
     "Translated Emission Pathways (TEPs): Long-Term Simulations of COVID-19 CO<sub>2</sub> Emissions and Thermosteric Sea Level Rise Projections<br />AGU Fall Meeting 2021; New Orleans, LA, United States",
     29.9574657,
     -90.0629493
