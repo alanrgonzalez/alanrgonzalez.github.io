@@ -73,7 +73,7 @@
     width: 100%;
   }
 }
-
+/*
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -82,6 +82,17 @@
   .archive__item-title {
     text-decoration: underline;
   }
+}
+*/
+.archive__item:hover {
+  .archive__item-teaser {
+    box-shadow: 0 0 10px rgba(#000, 0.25);
+  }
+}
+
+.archive__item-title {
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 
