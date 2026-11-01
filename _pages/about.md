@@ -13,4 +13,4 @@ Beyond research, I am deeply committed to teaching, mentoring, and making comple
 
 My work is driven by a simple belief: understanding our environment is the first step toward protecting it. Through continuous learning and with courage to embrace new challenges, I strive every day to grow as both a researcher and educator!
 
-<u>If you have any questions, are interested in my research, or would like to explore opportunities for collaboration, please feel free to reach out. I'd love to connect!</u>
+If you have any questions, are interested in my research, or would like to explore opportunities for collaboration, please feel free to reach out. I'd love to connect!
