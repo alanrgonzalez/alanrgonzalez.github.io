@@ -9,6 +9,6 @@ redirect_from:
 
 I am passionate about understanding the world around us and inspiring others to turn knowledge into positive action. Specializing in climate and air quality research, my work explores the connections between atmospheric processes, environmental change, and the quality of life in the communities we call home.
 
-Beyond research, I am deeply passionate about teaching, mentoring, and making complex scientific concepts accessible and engaging. I believe education is a powerful tool for sparking curiosity, empowering future generations, and creating meaningful change.
+Beyond research, I am deeply committed to teaching, mentoring, and making complex scientific concepts accessible and engaging. I believe education is a powerful tool for sparking curiosity, empowering future generations, and creating meaningful change.
 
 My work is driven by a simple belief: understanding our environment is the first step toward protecting it. Through continuous learning and with courage to embrace new challenges, I strive every day to grow as both a researcher and educator!
