@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "<br />; , TX, United States",
-    31.2638905,
-    -98.5456116
+    "High-Resolution Modeling of Future Population Exposure to PM<sub>2.5</sub> and Ozone: A Case Study in Texas<br />AGU Annual Meeting 2026; San Francisco, CA, United States",
+    37.7879363,
+    -122.4075201
   ],
   [
     "Observationally Constrained National and Long-Term Modeling of Isoprene-Derived SOA and Impacts on Aerosol Activation Properties<br />AGU Annual Meeting 2026; San Francisco, CA, United States",
