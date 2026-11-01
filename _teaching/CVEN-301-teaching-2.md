@@ -7,4 +7,4 @@ venue: "Texas A&M University, Zachry Department of Civil and Environmental Engin
 date: 2026-08-01
 ---
 
-Spring 2024, Fall 2026
+Fall 2026 and Spring 2024
