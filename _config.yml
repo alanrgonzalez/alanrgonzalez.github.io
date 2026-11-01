@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "Headshot_AG.png"
   name             : "Alan Gonzalez"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio: |
     Doctoral Candidate
     Environmental Engineering
