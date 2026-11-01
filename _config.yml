@@ -26,7 +26,9 @@ author:
   avatar           : "Headshot_AG.png"
   name             : "Alan Gonzalez"
   pronouns         : "he/him"  
-  bio              : "Doctoral Candidate"
+  bio: |
+    Doctoral Candidate
+    Environmental Engineering
   location         : "College Station, TX"
   employer         : "Texas A&M University"
   uri              : # URL
