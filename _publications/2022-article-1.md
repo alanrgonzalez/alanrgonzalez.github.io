@@ -2,7 +2,7 @@
 title: "Translated Emission Pathways (TEPs): Long-Term Simulations of COVID-19 CO<sub>2</sub> Emissions and Thermosteric Sea Level Rise Projections"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-08-24-article-1
+permalink: /publication/2022-article-1
 excerpt: 'Emphasizing scientific literacy and actionable science, this study utilizes COVID-19 CO<sub>2</sub> emission patterns to form a series of long-term scenarios and a sea level rise analysis.'
 date: 2022-08-24
 venue: 'Earth''s Future'
