@@ -3,7 +3,7 @@ title: "Translated Emission Pathways (TEPs): Long-Term Simulations of COVID-19 C
 collection: publications
 category: manuscripts
 permalink: /publication/2022-article-1
-excerpt: 'Gonzalez, A. R., & Lin, T. (2022). "Translated Emission Pathways (TEPs): Long‐Term Simulations of COVID‐19 CO<sub>2</sub> Emissions and Thermosteric Sea Level Rise Projections." <i>Earth''s Future, 10</i>(8). DOI: 10.1029/2021EF002453.'
+excerpt: '**Alan Gonzalez**, Ting Lin. “Translated Emission Pathways (TEPs): Long-Term Simulations of COVID-19 CO<sub>2</sub> Emissions and Thermosteric Sea Level Rise Projections.” <i>Earth''s Future, 10</i>(8). 2022. DOI: 10.1029/2021EF002453.'
 date: 2022-08-24
 venue: 'Earth''s Future'
 paperurl: 'https://doi.org/10.1029/2021ef002453'
