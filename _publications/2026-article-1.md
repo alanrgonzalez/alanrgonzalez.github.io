@@ -2,7 +2,7 @@
 title: "Modeling Decadal Organosulfates in Particulate Matter to Improve Estimations of Aerosol Hygroscopicity in the United States."
 collection: publications
 category: manuscripts
-permalink: /publication/2026-01-01-article-1
+permalink: /publication/2026-article-1
 excerpt: 'Aerosol composition is modeled across the United States over a 10-year period to assess impacts on cloud microphysical properties.'
 date: 2026-01-01
 venue: 'Environmental Science & Technology'
