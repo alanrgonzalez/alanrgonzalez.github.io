@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am passionate about understanding the world around us and inspiring others to make a difference. Specializing in climate and air quality research, my work explores the connections between atmospheric processes, environmental change, and the quality of life in the communities we call home.
+I am passionate about understanding the world around us and inspiring others to turn knowledge into positive action. Specializing in climate and air quality research, my work explores the connections between atmospheric processes, environmental change, and the quality of life in the communities we call home.
 
 Beyond research, I am deeply passionate about teaching, mentoring, and making complex scientific concepts accessible and engaging. I believe education is a powerful tool for sparking curiosity, empowering future generations, and creating meaningful change.
 
