@@ -5,6 +5,11 @@ var addressPoints = [
     -98.5456116
   ],
   [
+    "Observationally Constrained National and Long-Term Modeling of Isoprene-Derived SOA and Impacts on Aerosol Activation Properties<br />AGU Annual Meeting 2026; San Francisco, CA, United States",
+    37.7879363,
+    -122.4075201
+  ],
+  [
     "The Mexican Expectation: Influence of the Culture Deficit Theory on the Estudiantes Fronterizos<br />7<sup>th</sup> Annual TRIO Research Symposium; San Antonio, TX, United States",
     29.4246002,
     -98.4951405
