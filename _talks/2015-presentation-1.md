@@ -1,11 +1,11 @@
 ---
 title: "Books Over Black Barrels"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA, USA"
+type: "Poster Session"
+permalink: /talks/2015-presentation-1
+venue: "5<sup>th</sup> Annual TRIO Research Symposium"
+date: 2015-07-23
+location: "San Antonio, TX, United States"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This presentation focused on exploring the relationship between parental employment in the oil industry and high school students' decisions regarding higher education and career paths after graduation.
